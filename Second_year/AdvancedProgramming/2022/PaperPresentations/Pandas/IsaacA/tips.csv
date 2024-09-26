@@ -1,0 +1,6 @@
+ sex ,smoker,time,day,size,tip_pct
+Female,No,Dinner,Sun,2,0.05945
+Male,No,Dinner,Sun,3,0.1605
+Male,No,Dinner,Sun,3,0.1666
+Male,No,Dinner,Sun,2,0.1398
+Female,No,Dinner,Sun,4,0.1468

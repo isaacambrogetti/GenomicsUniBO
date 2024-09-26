@@ -1,0 +1,21 @@
+Lesson 1
+
+Approaches to the evaluation of algorithms
+> Analytical
+> Experimental
+
+Profiling
+Profiling a program means running it and keeping tracks of some measures: time, memory used, how many times an istruction is  used, etc.
+So it means that we're taking care of alot of other stuff other than just the result.
+Ways of profiling:
+> by hand
+    write manually on the program to print some output that are specific in some key nodes
+
+> use tools
+    cProfile, is a library built-in module in python which is specifically designed to profile the program wrote
+            << lesson-03_08-example1.py >>
+
+    It is possible to get the time and plot them in order to get a nice understanding on how performing it is
+    The cProfile will be the subject of this laboratory
+
+Learn how to use LATEX
