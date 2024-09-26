@@ -7,3 +7,9 @@ This repository contains notes, resumes, mock exams and common exam questions fr
 
 It is very welcome help to keep the repository updated with new material.  
 Therefore, feel free to propose a push or add new branches to add additional material not part of any courses.
+
+Guidelines:
+- When adding a file, its name should be: [course] _ [module] _ [resume/notes] _ [author name and surname initial / unknown]
+- Add files to the corresponding year folder inside the course folder
+- DO NOT SHARE EXAM ANSWERS (mock exams are fine)
+- DO NOT SHARE Bioinformatics homeworks
