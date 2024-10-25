@@ -22,12 +22,13 @@ There are some few exeptions to the folder structure, if you have doubt ask or j
 DO NOT! 💢 🚯
 - DO NOT SHARE EXAM ANSWERS (mock exams are fine)
 - DO NOT SHARE Bioinformatics homeworks
+- DO NOT SHARE lab reports
 
 _____
 
 ## How to upload files
 
-### **The dumb way** :fishing_pole_and_fish:
+### The dumb way :fishing_pole_and_fish:
 
 - Open the repository on GitHub
 - Navigate to the folder were you want to place the files
@@ -41,7 +42,7 @@ your request will be checked and approved.
 :warning: **Issue with this method:**
 - you will be able to add all the files you want in a single pull request only if they're located in the same folder, otherwise you'll need to open a new pull request for each folder which can be annoying both for you and for who has to check.
 
-#### The nerd way :broccoli:
+### The nerd way :broccoli:
 1. clone the repository on your pc or sync the changes if you've already cloned it before
 2. create a new branch ```git branch -c your_branch_name```
 3. get into your new branch ```git checkout your_branch_name```
@@ -64,6 +65,8 @@ your request will be checked and approved.
 
 9. go to the github page under [pulls](https://github.com/isaacambrogetti/GenomicsUniBO/pulls), select your branch and choose pull request.
 
-It might seem scary at the beginning but don't worry, if you get anything wrong you're not going to brake the github page.  
+___
+
+It might seem scary at the beginning but don't worry, if you get anything wrong you're not going to brake the github page.
 
 Have fun and be kind <3
