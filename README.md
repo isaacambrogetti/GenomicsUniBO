@@ -10,7 +10,7 @@ Help is very welcome! Feel free to download and add your own material to contrib
 ### Here's a quick guide
 
 How to upload files:
-1- 
+1- add files to a branch and then create a pull request. 
 
 - When adding a file, its name should be: [course] _ [module] _ [resume/notes] _ [author name and surname initial / unknown]
 - Add files to the corresponding folder, the structure is the following:  
